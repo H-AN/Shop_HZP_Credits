@@ -30,7 +30,7 @@
     "Global": {
       "InfectReward": 10,  //作为丧尸感染玩家获取积分
       "HumanWinReward": 20, //人类胜利全体人类获取积分
-      "ZombieWinReward": 5, //丧尸胜利全体人类获取积分
+      "ZombieWinReward": 5, //丧尸胜利全体丧尸获取积分
       "KillZombieReward": 5, //击杀丧尸获取积分
       "KillHumanReward": 5, //丧尸击杀人类获取积分 (军团模式于非感染模式)
       "PlaytimeIntervalMinutes": 1, //玩家在线时长获取积分 单位/分 
@@ -64,3 +64,4 @@
 }
 ```
 以上积分发放 填写为0代表此功能关闭,不会触发提示与积分发放.
+此插件不支持配置热重载,更改配置后更换地图或者重启服务器生效
