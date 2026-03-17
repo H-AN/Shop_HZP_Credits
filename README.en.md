@@ -9,6 +9,13 @@
   <a href="./README.en.md"><img src="https://flagcdn.com/48x36/gb.png" alt="English" width="48" height="36" /> <strong>English</strong></a>
 </div>
 
+---
+
+<div align="center">
+  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31PY52N)
+
+</div>
 <hr>
 
 <div align="center"><strong>Shop credits reward system for CS2 Zombie Plague based on the Swiftly2 framework.</p></div>
