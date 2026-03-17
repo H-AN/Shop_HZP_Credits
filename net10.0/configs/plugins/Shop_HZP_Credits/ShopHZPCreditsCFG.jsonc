@@ -1,0 +1,39 @@
+{
+  "ShopHZPCreditsCFG": {
+    "Enabled": true,
+    "InfoCommand": "sw_money",
+    "Global": {
+      "InfectReward": 10,
+      "HumanWinReward": 20,
+      "ZombieWinReward": 5,
+      "KillZombieReward": 5,
+      "KillHumanReward": 5,
+      "PlaytimeIntervalMinutes": 1,
+      "PlaytimeReward": 1,
+      "DamageThreshold": 5000,
+      "DamageReward": 1,
+      "DamageTakenThreshold": 3000,
+      "DamageTakenReward": 1
+    },
+    "ZombieClassRewards": [
+      {
+        "Enabled": true,
+        "ClassName": "复仇之神",
+        "InfectHumanBonus": 50,
+        "KillHumanBonus": 30,
+        "KilledByHumanBonus": 100,
+        "DamageMultiplier": 2.0,
+        "DamageTakenMultiplier": 3.0
+      },
+      {
+        "Enabled": true,
+        "ClassName": "母体僵尸",
+        "InfectHumanBonus": 20,
+        "KillHumanBonus": 25,
+        "KilledByHumanBonus": 30,
+        "DamageMultiplier": 1.5,
+        "DamageTakenMultiplier": 1.1
+      }
+    ]
+  }
+}

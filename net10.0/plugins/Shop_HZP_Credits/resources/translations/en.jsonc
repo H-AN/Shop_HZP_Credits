@@ -1,0 +1,23 @@
+{
+  "HudCredits": "You have {0} credits",
+  "HudDamageTakenThreshold": "Damage Taken Progress {0} / {1}",
+  "HudInfectReward": "Infection Reward {0} credits",
+  "HudKillHumanReward": "Kill Human Reward {0} credits",
+  "HudDamageTakenReward": "Complete Damage Taken Progress to earn {0} credits",
+  "HudDamageThreshold": "Damage Progress {0} / {1}",
+  "HudKillZombieReward": "Kill Zombie Reward {0} credits",
+  "HudDamageReward": "Complete Damage Progress to earn {0} credits",
+  "HudTips": "Killing special zombies grants extra credits",
+  "ReasonInfect": "[red] Infection Reward",
+  "ExtraInfectBonus": "[red] Including [gold]{0} [red]bonus credits for infecting a human as [gold]{1}[red]!",
+  "ReasonKillHuman": "[red] Kill Human",
+  "ExtraKillHumanBonus": "[red] Including [gold]{0} [red]bonus credits for killing a human as [gold]{1}[red]!",
+  "ReasonKillZombie": "[green] Kill Zombie",
+  "ExtraKillZombieBonus": "[red] Including [gold]{0} [red]bonus credits for killing [gold]{1}[red]!",
+  "ReasonHumanWin": "[green] Humans Win - Survival Reward",
+  "ReasonZombieWin": "[red] Zombies Win - Victory Reward",
+  "ReasonDamageThreshold": "[green] Damage Accumulation Reward",
+  "ReasonDamageTakenThreshold": "[red] Damage Taken Accumulation Reward",
+  "ReasonOnline": "[gold] Online for {0} minutes",
+  "Globals": "[gold]★[green] [Shop][yellow] You received [red]{0} [yellow] credits ({1} [yellow])!"
+}

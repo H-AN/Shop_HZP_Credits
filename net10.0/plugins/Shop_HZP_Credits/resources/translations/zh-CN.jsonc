@@ -1,0 +1,23 @@
+{
+  "HudCredits": "你拥有 {0}  积分",
+  "HudDamageTakenThreshold": "受伤积累 {0} / {1}",
+  "HudInfectReward": "感染奖励 {0} 积分",
+  "HudKillHumanReward": "击杀人类奖励 {0} 积分",
+  "HudDamageTakenReward": "完成受伤积累可获取 {0} 积分",
+  "HudDamageThreshold": "伤害积累 {0} / {1}",
+  "HudKillZombieReward": "击杀丧尸奖励 {0} 积分",
+  "HudDamageReward": "完成伤害积累可获取 {0} 积分",
+  "HudTips": "击杀特殊丧尸可获得额外积分",
+  "ReasonInfect": "[red] 感染积分",
+  "ExtraInfectBonus": "[red] 其中 [gold]{0} [red]积分，因作为 [gold]{1} [red]并感染人类额外获取!",
+  "ReasonKillHuman": "[red] 击杀人类",
+  "ExtraKillHumanBonus": "[red] 其中 [gold]{0} [red]积分，因作为 [gold]{1} [red]并击杀人类额外获取!",
+  "ReasonKillZombie": "[green] 击杀丧尸",
+  "ExtraKillZombieBonus": "[red] 其中 [gold]{0} [red]积分，因击杀 [gold]{1} [red]额外获取!",
+  "ReasonHumanWin": "[green] 人类胜利，存活积分",
+  "ReasonZombieWin": "[red] 丧尸胜利，胜利积分",
+  "ReasonDamageThreshold": "[green] 累计造成伤害奖励",
+  "ReasonDamageTakenThreshold": "[red] 累计承受伤害奖励",
+  "ReasonOnline": "[gold] 在线 {0} 分钟",
+  "Globals": "[gold]★[green] [商店][yellow] 你获得了 [red]{0} [yellow] 积分 ({1} [yellow])!"
+}
